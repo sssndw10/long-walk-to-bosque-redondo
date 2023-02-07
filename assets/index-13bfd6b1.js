@@ -126,7 +126,7 @@ Error generating stack: `+o.message+`
   width:90%;
   height:80vh;
   color:${e=>e.theme.black.lighter};
-  font-size:26pt;
+  font-size:20pt;
   padding:50px;
 `,ek=Ut.div`
   height:7vh;
